@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hey there! I'm Mustapha Arjdal, a Full Stack Developer with a knack for crafting seamless user experiences and building high-performance web applications. Experienced in both front-end and back-end technologies, I thrive on innovation and collaboration. Let's create something extraordinary together
+ Hey there! I'm Mustapha Arjdal, a Full Stack Developer with a knack for crafting seamless user experiences and building high-performance web applications
 
 
 ## 🌐 Socials:
