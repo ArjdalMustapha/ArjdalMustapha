@@ -1,64 +1,83 @@
-<!-- ===== ANIMATED HEADER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mustapha%20Arjdal&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Odoo%20Specialist&descSize=18&descAlignY=58" width="100%" alt="header" />
+<!-- ===== HEADER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:1e1b4b&height=180&section=header&text=Mustapha%20Arjdal&fontSize=46&fontColor=f8fafc&fontAlignY=42&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20Odoo%20Specialist&descSize=17&descColor=a5b4fc&descAlignY=65" width="100%" alt="Mustapha Arjdal" />
 
-<!-- ===== TYPING ANIMATION (font: JetBrains Mono) ===== -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Crafting+seamless+user+experiences;Building+high-performance+web+apps;Odoo+17%2F18+Module+Developer;React+%7C+PHP+%7C+Python+%7C+JavaScript" alt="Typing SVG" />
-  </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=818CF8&center=true&vCenter=true&width=640&height=40&lines=Building+high-performance+web+applications;Crafting+seamless+user+experiences;Customizing+ERP+with+Odoo+17+%2F+18" alt="Typing animation" />
+
+<br/>
+
+![Location](https://img.shields.io/badge/Agadir%2C_Morocco-0b1220?style=flat-square&logo=googlemaps&logoColor=818cf8)
+![Role](https://img.shields.io/badge/Full_Stack_Developer-0b1220?style=flat-square&logo=codesandbox&logoColor=818cf8)
+![Odoo](https://img.shields.io/badge/Odoo_Specialist-714B67?style=flat-square&logo=odoo&logoColor=white)
+![Status](https://img.shields.io/badge/Open_to_opportunities-16a34a?style=flat-square)
+
+</div>
+
+---
+
+## 👋 About
+
+I'm a Full Stack Developer focused on crafting seamless user experiences and building high-performance web applications. I also specialize in **Odoo ERP development**, from custom modules to access control and reporting.
+
+<br/>
+
+## 🚀 What I Do
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🖥️ Web Development</h3>
+      Responsive, fast interfaces with React, Tailwind and modern JavaScript.
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ Odoo & ERP</h3>
+      Custom modules, OWL components, QWeb reports and business workflows for Odoo 17/18.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎨 UI / UX Design</h3>
+      Interfaces designed in Figma and Photoshop, then built pixel-perfect.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+| | |
+|:--|:--|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap&theme=dark" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=php,py&theme=dark" /> <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="48" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" /> |
+| **Design & Tools** | <img src="https://skillicons.dev/icons?i=figma,ps,git,github,jira&theme=dark" /> |
+
 </div>
 
 <br/>
 
-<!-- ===== ABOUT ===== -->
-## 💫 About Me
+## 📦 Featured Work
 
-Hey there! 👋 I'm **Mustapha Arjdal**, a Full Stack Developer with a knack for crafting seamless user experiences and building high-performance web applications. I also specialize in **Odoo ERP customization**.
+| Project | Description | Stack |
+|:--|:--|:--|
+| [**School Management**](https://github.com/YOUR_USERNAME/REPO) | Odoo module for training programs, reports and academic workflows | `Odoo 17` `Python` `QWeb` |
+| [**Moroccan Fiscal & Social Guide**](https://github.com/YOUR_USERNAME/REPO) | Fiscal and payroll engine (IS, IR, CNSS/AMO) with an OWL dashboard | `Odoo 18` `Python` `OWL` |
+| [**User Menu Access**](https://github.com/YOUR_USERNAME/REPO) | Per-user menu restriction with a permissions table | `Odoo` `Python` `XML` |
 
-<!-- ===== SOCIALS ===== -->
-## 🌐 Connect With Me
+<br/>
 
-<div align="center">
-  <a href="https://behance.net/YOUR_BEHANCE_USERNAME"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
-<!-- ===== TECH STACK ===== -->
-## 💻 Tech Stack
+## 🌐 Let's Connect
 
 <div align="center">
 
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap&theme=dark" /><br/><br/>
-
-**Backend & Databases**<br/>
-<img src="https://skillicons.dev/icons?i=php,py,mysql,postgres,mongodb&theme=dark" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" /><br/><br/>
-
-**Design & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=figma,ps,git,github,jira&theme=dark" />
+<a href="https://behance.net/YOUR_BEHANCE_USERNAME"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&logo=googlechrome&logoColor=818cf8" /></a>
 
 </div>
 
-<!-- ===== STATS ===== -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" />
-</div>
-
-<!-- ===== ACTIVITY GRAPH ===== -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-<!-- ===== ANIMATED FOOTER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%" />
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=0" />
-</div>
+<!-- ===== FOOTER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:0b1220&height=60&section=footer" width="100%" alt="" />
