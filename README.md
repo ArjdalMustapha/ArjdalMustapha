@@ -58,24 +58,16 @@ I'm a Full Stack Developer focused on crafting seamless user experiences and bui
 
 <br/>
 
-## 📦 Featured Work
 
-| Project | Description | Stack |
-|:--|:--|:--|
-| [**School Management**](https://github.com/YOUR_USERNAME/REPO) | Odoo module for training programs, reports and academic workflows | `Odoo 17` `Python` `QWeb` |
-| [**Moroccan Fiscal & Social Guide**](https://github.com/YOUR_USERNAME/REPO) | Fiscal and payroll engine (IS, IR, CNSS/AMO) with an OWL dashboard | `Odoo 18` `Python` `OWL` |
-| [**User Menu Access**](https://github.com/YOUR_USERNAME/REPO) | Per-user menu restriction with a permissions table | `Odoo` `Python` `XML` |
-
-<br/>
 
 ## 🌐 Let's Connect
 
 <div align="center">
 
-<a href="https://behance.net/YOUR_BEHANCE_USERNAME"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&logo=googlechrome&logoColor=818cf8" /></a>
+<a href="https://www.behance.net/arjmuss"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/arjdal-mustapha-812321257/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:arjdal.mustapha03@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 
 </div>
 
